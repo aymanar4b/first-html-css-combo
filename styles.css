@@ -113,7 +113,7 @@ img{
 }
 
 .description--para{
-    font-size: 25px;
+    font-size: 22px;
     line-height: 1.5;
     margin-bottom: 24px;
 }
@@ -179,7 +179,13 @@ footer{
 @media (max-width: 728px) {
 .row{
     flex-direction: column;
+    
 }
+
+header{
+    padding: 400px 0;
+}
+
 .home__description{
     margin-bottom: 24px;
     display: flex;
