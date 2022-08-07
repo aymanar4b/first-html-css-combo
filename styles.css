@@ -182,6 +182,12 @@ footer{
     
 }
 
+
+nav{
+    justify-content: center;
+}
+
+
 header{
     height: 100%;
 }
