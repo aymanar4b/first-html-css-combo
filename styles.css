@@ -183,7 +183,7 @@ footer{
 }
 
 header{
-    padding: 400px 0;
+   padding-top: 100px 0 100px 0 ; 
 }
 
 .home__description{
@@ -194,9 +194,9 @@ header{
     
 }
 
-h1{
+h1,h2{
     text-align: center;
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .subheader{
