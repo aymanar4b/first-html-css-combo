@@ -183,8 +183,9 @@ footer{
 }
 
 header{
-   padding-top: 100px 0 100px 0 ; 
+    height: 100%;
 }
+
 
 .home__description{
     margin-bottom: 24px;
